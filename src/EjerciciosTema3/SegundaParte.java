@@ -1,13 +1,10 @@
-package com.Part2;
+package EjerciciosTema3;
 
 public class SegundaParte {
     public static void main(String[] args) {
         Coche miCoche = new Coche();
         System.out.println(miCoche.NumeroDePuertas);
-        System.out.println(miCoche.NumeroDePuertas);
-        System.out.println(miCoche.NumeroDePuertas);
-        System.out.println(miCoche.NumeroDePuertas);
-        System.out.println(miCoche.NumeroDePuertas);
+
     }
 }
 

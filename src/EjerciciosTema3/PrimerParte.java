@@ -1,4 +1,4 @@
-package com.Part1;
+package EjerciciosTema3;
 
 public class PrimerParte {
     public static void main(String[] args) {
