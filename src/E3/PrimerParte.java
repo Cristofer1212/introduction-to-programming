@@ -1,4 +1,4 @@
-package EjerciciosTema3;
+package E3;
 
 public class PrimerParte {
     public static void main(String[] args) {

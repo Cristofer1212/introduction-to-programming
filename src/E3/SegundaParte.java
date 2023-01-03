@@ -1,4 +1,4 @@
-package EjerciciosTema3;
+package E3;
 
 public class SegundaParte {
     public static void main(String[] args) {
@@ -7,7 +7,6 @@ public class SegundaParte {
 
     }
 }
-
 class Coche {
     public int NumeroDePuertas = 1;
     public void IncrementarNúmeroDePuertas () {
