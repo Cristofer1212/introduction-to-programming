@@ -1,4 +1,4 @@
-package E4;
+package E4 ;
 
 public class Switch {
     public static void main(String[] args) {
