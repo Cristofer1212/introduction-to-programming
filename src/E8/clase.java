@@ -2,12 +2,20 @@ package E8;
 
 public class clase {
     public static void main(String[] args) {
+        Vehiculo coche = new Vehiculo(); // Esto es una instancia (objeto)
+        coche.setTipo("Coche");
+
+        Vehiculo moto = new Vehiculo(); // Esto es una instancia (Objeto)
+        moto.setTipo("La Dukati");
+
+        System.out.println(coche.getTipo());
+        System.out.println(moto.getTipo());
 
     }
 
 }
 class Vehiculo {
-    private String tipo;
+    private String tipo; // Esto es una propiedad
 
     public  void setTipo(String tipo) {
         this.tipo = tipo; //es una funcion setter ya que recibe un parametro y no devuelve nada
