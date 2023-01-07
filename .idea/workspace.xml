@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec180daa-2d8a-462d-a969-270b5baf81c9" name="Changes" comment="Avance hasta la clase 8 de Introducción a la Programación commit">
-      <change afterPath="$PROJECT_DIR$/src/E9/main.java" afterDir="false" />
+    <list default="true" id="ec180daa-2d8a-462d-a969-270b5baf81c9" name="Changes" comment="Topic 9 exercise">
+      <change afterPath="$PROJECT_DIR$/src/E3/mainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E9/Theme_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +28,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -62,6 +64,54 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.recursive_function">
+    <configuration name="function_by_reference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E3.function_by_reference" />
+      <module name="EjerciciosTema3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="function_by_value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E3.function_by_value" />
+      <module name="EjerciciosTema3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="recursive_function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E3.recursive_function" />
+      <module name="EjerciciosTema3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.recursive_function" />
+        <item itemvalue="Application.function_by_reference" />
+        <item itemvalue="Application.function_by_value" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -134,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672979708613</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Topic 9 exercise">
+      <created>1673061074808</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673061074808</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,7 +213,8 @@
     <MESSAGE value=" three commit" />
     <MESSAGE value="clase 8 commit" />
     <MESSAGE value="Avance hasta la clase 8 de Introducción a la Programación commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Avance hasta la clase 8 de Introducción a la Programación commit" />
+    <MESSAGE value="Topic 9 exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Topic 9 exercise" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
